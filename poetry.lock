@@ -1,0 +1,15 @@
+[[package]]
+name = "pymqi"
+version = "1.12.8"
+description = "Python IBM MQI Extension for IBM MQ (formerly WebSphere MQ and MQSeries)."
+category = "main"
+optional = false
+python-versions = "*"
+
+[metadata]
+lock-version = "1.1"
+python-versions = "^3.8"
+content-hash = "f22c5e23785618ee8ad55612c2a075fca738c7049d97db23f71ea0fb8ca7b623"
+
+[metadata.files]
+pymqi = []
