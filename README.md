@@ -66,3 +66,8 @@ get_mensagem_wait()
 The official IBM project can be used
 
 [mq-container](https://github.com/ibm-messaging/mq-container)
+
+# Credits
+
+(PyMQI)[https://zato.io/pymqi/]
+(IBM)[https://www.ibm.com/docs/en/ibm-mq/9.3]
