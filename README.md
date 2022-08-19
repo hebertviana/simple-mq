@@ -69,5 +69,5 @@ The official IBM project can be used
 
 # Credits
 
-(PyMQI)[https://zato.io/pymqi/]
-(IBM)[https://www.ibm.com/docs/en/ibm-mq/9.3]
+[PyMQI](https://zato.io/pymqi/)
+[IBM}(https://www.ibm.com/docs/en/ibm-mq/9.3)
