@@ -51,4 +51,4 @@ def get_mensagem_wait():
             else:
                 # Some other error condition.
                 raise
-        qmgr_get.disconnect()
+    qmgr_get.disconnect()
