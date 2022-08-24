@@ -24,6 +24,7 @@ Download IBM MQ Dev version
 Installing IBM MQ Client
 
 ```sh
+sudo ./mqadv_dev930_linux_x86-64/MQServer/mqlicense.sh
 sudo rpm -ivh ./mqadv_dev930_linux_x86-64/MQServer/MQSeriesRuntime-9.3.0-0.x86_64.rpm
 sudo rpm -ivh ./mqadv_dev930_linux_x86-64/MQServer/MQSeriesGSKit-9.3.0-0.x86_64.rpm
 sudo rpm -ivh ./mqadv_dev930_linux_x86-64/MQServer/MQSeriesClient-9.3.0-0.x86_64.rpm
